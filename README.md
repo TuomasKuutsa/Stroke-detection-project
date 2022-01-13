@@ -1,4 +1,4 @@
-# Stroke prediction project
+# Stroke detection project
 
 This "project" is ment as a personal introduction in hands on machine learning.
 
